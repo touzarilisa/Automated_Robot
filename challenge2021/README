@@ -1,0 +1,22 @@
+Projet réalisé par :
+ 
+TOUZARI LISA   28617271    Groupe ISI
+BEKDOUCHE LINA INSAF  28620402   Groupe ISI
+CUI XINYI  3873971 Groupe ISI
+
+Dans le package challenge2021, il y a quatre dossiers :
+
+1. rviz : il contient un fichier de configuration de rviz pour le robot  utilisé turtlebot3_burger.
+
+2. launch : Il contient tous les launch files pour chaque challenge, la transition entre challenges et la teleoperation.
+	    
+3. scripts : Il contient tous les noeuds du package.
+
+mybot_teleop.py --> la teleoperation du robot
+challenge1.py --> le premier challenge
+challenge2.py --> le deuxieme challenge
+challenge3.py --> le troisième challenge
+projet.py --> la transition entre les 3 challenges
+
+4. world : contient le fichier de la description du monde de de la simulation.
+
